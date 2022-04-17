@@ -11,7 +11,7 @@ data_*/
 mono_crash.*.json
 
 # submodules
-gdUnit3-examples/
+addons
 
 
 # System/tool-specific ignores
